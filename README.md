@@ -2,7 +2,11 @@
 
 python picamera doc https://picamera.readthedocs.io/
 
-# wifi ap + client mode
+## microphone setup
+
+https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-test
+
+## wifi ap + client mode
 
 https://raspberrypi.stackexchange.com/a/93312
 
