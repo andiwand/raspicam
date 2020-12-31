@@ -1,6 +1,7 @@
 # raspicam
 
-python picamera doc https://picamera.readthedocs.io/
+- python picamera doc https://picamera.readthedocs.io/
+- picam https://github.com/iizukanao/picam
 
 ## microphone setup
 
